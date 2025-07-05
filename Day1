@@ -1,0 +1,34 @@
+pip command 
+modules are something that we use to borrow some code 
+sklearn machinelearning library in python 
+print("hi) 
+hashlib is an example of builtit module 
+pandas and tensor flow example of external modules 
+program down below that i learnt today 
+
+print ("hello i m learning python ")
+aise he seekh raha hu wapis se sab kuch ab dekhte hai kya hota hai sab bhul gya hu wapis se seekhenge pura course complete krta hu python ka 
+comments in python # now whatever will be written in here will be commented thats it that is comments in python 
+using control plus forward slash you can mark multiple lines as comments in pyhton 
+''' and """ are also multi line comments in python 
+backslash is an escape sequence character in python 
+print ("hey "hey "and end") #now this would be error because the intrpreter woundnt be able to read the douible quote so thats why we use an escape sequence sequence character and that is baclslash 
+print("hey\ "hey"\ and end ") now this will print the double quotes in our code oki 
+
+now lets learn variables what are they and all 
+so variables are something that stores data inside the memory like a container 
+holds data in memory 
+built in data types in python 
+1 numerical data like int float and complex 
+2 text data like string "abc"
+3 boolean data it is simple yes and no stoes only 2 variable true and false 
+4 sequenced data like list and tupple list are mutable and tupples are immutable 
+5 mapped data "dict" dictionary data code = dict1= {" name ": "sakshi", "age": 20 , "canvote": True} 
+note : in python everything is an object { this may not be in your grasp right now but once we will study about oops then you will get to know what objects and classes are there in pyhthon }
+
+operators in python 
+arithematic operators are : addition + subtraction - multiplication * exponential ** division / modulus % floor division //
+thats it for today 
+see you in the next one 
+now we will make a calculator in python in the next one chlo dekhte hai kya hota hai 
+
