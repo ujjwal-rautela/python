@@ -1,0 +1,44 @@
+calculator by code with harry video bakwass tha chota wala calculator tha 
+
+type casting in python
+lets see we have written a is 1 and b is 2 and then we print a +b 
+then python will write 12 not 3 because python will see it as string value not as numerical value 
+so typecasting is generally the conversion of one data type in another in pyhton is typecasting 
+the strings should be a valid integer or like that 
+typecasting is also of 2 type implicit and explicit 
+
+lets give input to python program --
+
+a= input('enter your no")
+print("my name ",a)
+result will be a what will we write 
+python concatenate too so we have to define variable if wee dont want concatenaton to happen 
+
+so no next strings 
+anything that u encloses on single and double quotations is considered as string 
+  its essentially a sequence or array of textured data 
+if we have to print big data in it or like multi line strings 
+so it is something like commment eol error end of line error will be there 
+triple double or single quote in first and last line will be printed whole
+now indexing in python if i print ujjwal like this 
+name ='ujjwal'
+print(name[o])
+so 0 will be u 
+it will be like u=0 j=1 j=2 w=3 a=4 l= 5 if i will try printinh 6 value of index then it will show index error 
+string slicing 
+a='ujjwal'
+ab=len(a)
+print(ab)
+it will show 6 as output
+print(a[0:4])
+ujjw will be the output 0 1 2 3 index numbers will be printed there 
+string are immmutable 
+a="ujjwal !!!"
+print(len(a))
+print(a)
+print(a.upper()) #changes it into uppercase
+print(a.lower()) #changes it into lowercse
+print(a.rstrip('!'))  #it will strip away all exclamation marks 
+print(a.replace('ujjwal','jhonny')) #self explanatory
+print(a.split())#splits it 2 types 
+there are many type of these all are not that important i think so 
