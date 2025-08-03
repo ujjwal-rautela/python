@@ -31,6 +31,7 @@ I’m documenting my 50-day Python + DSA plan to:
 - VS Code / Replit / Jupyter (varies by day)  
 - Git for version control  
 - Markdown for notes
+- Replit 
 
 ## 📅 Progress Tracker
 
