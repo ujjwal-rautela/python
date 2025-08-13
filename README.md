@@ -27,7 +27,7 @@ I’m documenting my 50-day Python + DSA plan to:
 
 ## 🛠 Technologies
 
-- Python 3.x  
+- Python 3.0 
 - VS Code / Replit / Jupyter (varies by day)  
 - Git for version control  
 - Markdown for notes
