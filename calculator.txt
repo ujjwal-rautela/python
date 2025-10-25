@@ -1,0 +1,15 @@
+num1 = input("enter first number ")
+num2 = input("enter second number ")
+ope = input("enter the operation between these two numbers  ( +,-,%,/,*,")
+if ope == '+':
+    print(" the sum of these are ",int(num1)+int(num2) )
+elif ope == '-':
+    print("the subtraction of these number is ", int(num1)-int(num2))
+elif ope == '*':
+    print("the multiplication of these two number is ",int(num1)*int(num2))
+elif ope == '/':
+    print("division of these number is ", int(num1)/int(num2))
+elif ope == '%':
+    print("modulus of these two number is ", int(num1)%int(num2))
+else:
+    print("wrong operation")

@@ -1,0 +1,3 @@
+num1 = input("first number")
+num2 = input("second number")
+print(int(num1)+int(num2) ,"is your answer") 
